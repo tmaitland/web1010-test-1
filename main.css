@@ -1,1 +1,25 @@
+/*Question 1*/
+h1 {
+    color: purple;
+}
+/*Question 2*/
+.colleges {
+    background-color: #c83;
+}
+/*Question 3*/
+.topics {
+    list-style-type: none;
+}
+/*Question 4*/
+figure img {
+    max-width: 300px;
+}
+/*Question 5*/
+div figure {
+    display: inline-block;
+    margin: 20px;
+}
+/*Question 6*-look in HTML/
+
+
 
